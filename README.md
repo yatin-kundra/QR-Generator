@@ -18,7 +18,7 @@ This is a simple web application that generates QR codes based on user input. Us
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
 3. Install dependencies using `npm install`.
-4. Run the server using `npm start`.
+4. Run the server using `node index.js`.
 5. Open your web browser and go to `http://localhost:3000`.
 6. Enter a domain name in the input field and click the "Generate QR Code" button.
 7. The generated QR code will be displayed on the screen.

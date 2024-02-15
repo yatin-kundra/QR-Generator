@@ -1,0 +1,25 @@
+{
+  "name": "qr-generator",
+  "version": "1.0.0",
+  "description": "creates qr code for a given URL",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qr-generator"
+  ],
+  "author": "yatin kundra",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.0.3",
+    "path": "^0.12.7",
+    "qr-image": "^3.2.0",
+    "url": "^0.11.3"
+  }
+}
